@@ -19,4 +19,6 @@ apt update
 
   
   pip install -r requirements.txt
+  
+  
   python spamercall.py
